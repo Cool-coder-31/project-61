@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 100px;
+    text-decoration: underline text-decoration-style: wavy;
+}
+
+.line {
+    width: 100px;
+    height: 5px;
+    background-color: darkblue;
+    margin: 10px auto;
+}
+
+img {
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+}
+
+#myinspiration {
+    background-color: mistyrose;
+}
+
+p {
+    font-size: 25px;
+    font-family: inherit;
+}
+a{
+text-decoration:none;
+}
+.articles:hover{
+color:yellow;
+}
+#contact iframe{
+    width:100%;
+}
+.contact_1 a{
+    color:darkred;
+    text-shadow:none;
+}
+.contac_1 h3{
+    display:in-line;
+}
+#contact[
+background-color:brick-red;
+]
